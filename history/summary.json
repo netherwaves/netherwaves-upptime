@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/netherwaves.com.ico",
     "slug": "netherwaves",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.43%",
-    "time": 198,
-    "timeDay": 296,
-    "timeWeek": 241,
-    "timeMonth": 217,
+    "uptimeYear": "98.70%",
+    "time": 197,
+    "timeDay": 128,
+    "timeWeek": 221,
+    "timeMonth": 219,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-12-07": 1117,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   }
 ]
