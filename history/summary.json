@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netherwaves.com.ico",
     "slug": "netherwaves",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 274,
-    "timeWeek": 238,
-    "timeMonth": 197,
-    "timeYear": 201,
+    "timeDay": 529,
+    "timeWeek": 267,
+    "timeMonth": 210,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   }
 ]
